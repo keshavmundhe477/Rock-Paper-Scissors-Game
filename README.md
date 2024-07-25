@@ -4,7 +4,7 @@ This is a simple Rock Paper Scissors game built using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can play the game [here](https://keshavmundhe477.github.io/Rock-Paper-Scissors/).
+You can play the game [here](https://keshavmundhe477.github.io/Rock-Paper-Scissors-Game/).
 
 ## GitHub Repository
 
